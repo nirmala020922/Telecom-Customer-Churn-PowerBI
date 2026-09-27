@@ -6,6 +6,7 @@ This project analyzes customer churn for a telecommunications company using Powe
 The goal is to convert customer data into actionable business insights that can support customer retention and churn reduction strategies.
 
 🎯 Business Objectives
+
 Analyze overall customer churn performance.
 Identify customer segments with high churn risk.
 Understand the impact of contract type on churn.
