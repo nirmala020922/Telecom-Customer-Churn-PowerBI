@@ -1,4 +1,5 @@
 Telecom Customer Churn Analysis Dashboard
+
 📊 Project Overview
 
 This project analyzes customer churn for a telecommunications company using Power BI. The dashboard identifies key churn drivers, high-risk customer segments, contract patterns, customer value segments, tenure trends, and service-level churn patterns.
@@ -180,6 +181,7 @@ Dashboard Navigation
 Business Recommendations
 
 📁 Repository Structure
+
 Telecom-Customer-Churn-PowerBI/
 │
 ├── README.md
